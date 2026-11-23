@@ -1,0 +1,7 @@
+---
+title: "Welcome"
+---
+
+Hi, I'm Megan Nguyen, a UCLA student studying Statistics and Data Science and Cognitive Science, with experience in audit analytics, research, and data pipelines.
+
+See the [About](about.qmd) page for my background and experience, or [download my resume](Megan_Nguyen_Resume.pdf).

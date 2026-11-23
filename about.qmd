@@ -1,0 +1,68 @@
+---
+title: "Megan Nguyen"
+image: meganCherryBlossomSeattle.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nguyentmegan
+    - icon: envelope
+      text: Email
+      href: mailto:megantnguyen@g.ucla.edu
+    - icon: file-earmark-pdf
+      text: Resume
+      href: Megan_Nguyen_Resume.pdf
+---
+
+I am a Statistics and Data Science and Cognitive Science student at UCLA with experience in audit analytics, applied machine learning, and research.
+
+## Education
+
+**University of California, Los Angeles** | Los Angeles, CA
+
+B.S. in Statistics and Data Science, B.S. in Cognitive Science | Sept 2023 - June 2027
+
+GPA: 3.98/4.0, Dean's Honor List 9x
+
+Relevant coursework: Machine Learning, Design & Experimental Analysis, Data Analysis, Linear Models, Python, R, Psych. Stats.
+
+## Experience
+
+**Data Analytics Intern, Audit & Assurance** | Deloitte & Touche LLC | June 2026 - Present
+
+- Performed journal entry testing across 8+ clients using Omnia Data, Excel, and PySpark on datasets exceeding 500,000 rows.
+- Rolled forward a custom accounts receivable analytic script, importing monthly files of 200,000+ rows and validating sum accuracy.
+
+**Data Scientist (Contractor)** | Yosef & Tobi Bloom LLC | Aug 2024 - Aug 2025
+
+- Built a semi-automated Python webscraping pipeline for Airbnb reservation data, reducing resource management by 10x.
+- Engineered a data-aggregation pipeline automating P&L reports from 10 banking platforms (1,300+ transactions), cutting generation time from 3-4 weeks to 5 minutes.
+
+**Undergraduate Researcher, Surgery Education Program** | UCLA Department of Surgery (Dr. Tillou) | Nov 2025 - May 2026
+
+- Delivered a stalled revise-and-resubmit study with 10+ validated statistical outputs by building a reproducible R-based analysis pipeline.
+- Ran multivariable regression models on N≈100+ examinee-case observations, controlling for 3 covariates.
+
+**Undergraduate Researcher, Project Lead** | UCLA Graph Perception Research Lab (Prof. Zili Liu) | Mar 2025 - June 2026
+
+- Analyzed 2,500+ participant-made scatterplot and bar graph drawings, calculating correlation and skewness.
+- Coded qualitative responses achieving >90% inter-rater reliability across 12 researchers.
+
+## Projects
+
+**Million Dollar Baby: Sales Data Analysis & Profit Optimization** | Mar - June 2025 | pandas, scikit-learn
+
+- Analyzed $7.6M+ in ad spend across Google and Facebook and automated brand-level KPI tracking (RoAS, CAC).
+
+**Decoding Emotional Influence in Advertising: Slogan Analysis** | Jan - Mar 2025 | pandas, NLTK, scikit-learn
+
+- Classified 10,000+ slogans by industry with Logistic Regression and built a Random Forest emotion model (RMSE 0.0724).
+
+## Skills
+
+**Languages:** Python, SQL, PySpark, R, C++, JavaScript, HTML/CSS, MATLAB
+
+**Tools:** Tableau, Power BI, Excel, Databricks, Git, GitHub, Google Cloud Platform
+
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, NLTK, Selenium

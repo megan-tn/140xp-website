@@ -1,0 +1,21 @@
+project:
+  type: website
+  resources:
+    - Megan_Nguyen_Resume.pdf
+
+website:
+  title: "Megan Nguyen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+    right:
+      - icon: file-earmark-pdf
+        text: Resume
+        href: Megan_Nguyen_Resume.pdf
+
+format:
+  html:
+    theme: cosmo
